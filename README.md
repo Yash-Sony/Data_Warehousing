@@ -14,6 +14,15 @@ A database is a way to record and access information from a single source. A dat
 
 A data warehouse is a way to store historical information from multiple sources to allow you to analyze and report on related data (e.g., your sales transaction data, mobile app data, and CRM data). Unlike a database, the information isn’t updated in real-time and is better for data analysis of broader trends.
 
+## What are the benefits of using a data warehouse?
+
+Benefits of a data warehouse include the following:
+1. Informed decision making
+2. Consolidated data from many sources
+3. Historical data analysis
+4. Data quality, consistency, and accuracy
+5. Separation of analytics processing from transactional databases, which improves performance of both systems
+
 ## How do data warehouses, databases, and data lakes work together?
 Typically, businesses use a combination of a database, a data lake, and a data warehouse to store and analyze data. Amazon Redshift’s lake house architecture makes such an integration easy.
 As the volume and variety of data increases, it’s advantageous to follow one or more common patterns for working with data across your database, datalake, and data warehouse:
@@ -24,15 +33,6 @@ As the volume and variety of data increases, it’s advantageous to follow one o
 A data warehouse is specially designed for data analytics, which involves reading large amounts of data to understand relationships and trends across the data. A database is used to capture and store data, such as recording details of a transaction.
 
 Unlike a data warehouse, a data lake is a centralized repository for all data, including structured, semi-structured, and unstructured. A data warehouse requires that the data be organized in a tabular format, which is where the schema comes into play. The tabular format is needed so that SQL can be used to query the data. But not all applications require data to be in tabular format. Some applications, like big data analytics, full text search, and machine learning, can access data even if it is ‘semi-structured’ or completely unstructured.
-
-## What are the benefits of using a data warehouse?
-
-Benefits of a data warehouse include the following:
-  Informed decision making
-  Consolidated data from many sources
-  Historical data analysis
-  Data quality, consistency, and accuracy
-  Separation of analytics processing from transactional databases, which improves performance of both systems
   
 ## 6 factors to consider when choosing a data warehouse
 Now you know the benefits of a data warehouse—but how do you go about picking one? Consider these factors when figuring out which data warehouse will best suit your business needs.
