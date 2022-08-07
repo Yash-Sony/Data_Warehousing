@@ -1,5 +1,5 @@
 # Data_Warehousing
-Hello readers, Thankyou for giving me time, please enjoy yourself the article.
+Hello readers, Thank you for giving me time, please enjoy yourself the article.
 
 ## What is a data warehouse?
 A data warehouse, or enterprise data warehouse (EDW), is a system to aggregate your data from multiple sources so it’s easy to access and analyze. Data warehouses typically store large amounts of historical data that can be queried by data engineers and business analysts for the purpose of business intelligence.
