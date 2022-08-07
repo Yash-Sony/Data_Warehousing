@@ -9,9 +9,9 @@ Instead of only having access to your data in individual sources, a data warehou
 ## Data warehouse vs. database: how they're different
 Databases and data warehouses are related but not the same.
 
-A database is a way to record and access information from a single source. A database is often handling real-time data to support day-to-day business processes like transaction processing.
+A **database** is a way to record and access information from a single source. A database is often handling real-time data to support day-to-day business processes like transaction processing.
 
-A data warehouse is a way to store historical information from multiple sources to allow you to analyze and report on related data (e.g., your sales transaction data, mobile app data, and CRM data). Unlike a database, the information isn’t updated in real-time and is better for data analysis of broader trends.
+A **data warehouse** is a way to store historical information from multiple sources to allow you to analyze and report on related data (e.g., your sales transaction data, mobile app data, and CRM data). Unlike a database, the information isn’t updated in real-time and is better for data analysis of broader trends.
 
 ## What are the benefits of using a data warehouse?
 Benefits of a data warehouse include the following:
