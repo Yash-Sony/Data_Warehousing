@@ -42,3 +42,6 @@ Now you know the benefits of a data warehouse—but how do you go about picking 
 4. Maintenance
 5. Ecosystem
 6. Cost
+
+## Useful resource
+[click here](<[https://aws.amazon.com/data-warehouse/]>)
